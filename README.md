@@ -27,7 +27,7 @@ With VSort, you can:
 
 ## How to Use
 
-1. Visit the VSort website: [marcofratta.github.io/PPS-22-VSort/](https://marcofratta.github.io/PPS-22-VSort/)
+1. Visit the VSort website: [marcofratta.github.io/PPS-22-VSort/](https://marcofratta.github.io/VSort/)
 2. Explore the interactive visualizations by selecting your preferred sorting algorithm and data distribution.
 
 Enjoy exploring the behaviors of different sorting algorithms in action!
